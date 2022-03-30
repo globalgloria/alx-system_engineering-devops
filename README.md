@@ -1,1 +1,1 @@
-My repository on shell basics
+My repository on shell basis
