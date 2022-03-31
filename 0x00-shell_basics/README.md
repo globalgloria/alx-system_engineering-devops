@@ -1,2 +1,1 @@
-My repository on shell
-The long format
+Hidden files
