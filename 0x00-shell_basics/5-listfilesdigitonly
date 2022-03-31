@@ -1,1 +1,2 @@
-I love numbers
+#!/bin/bash
+ls -lna
